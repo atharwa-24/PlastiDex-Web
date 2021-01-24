@@ -14,19 +14,15 @@ caused due to plastic disposals. Our project aims to create a better
 understanding among people about which exact plastic are they using and to help
 them identify a way to dispose it in a eco-friendly manner.
 
-## Screenshots
-
-| ![SignIn](logo4.png) |
-
-
+![SignIn](logo4.png) 
+| ![SignIn](4.jpg) | ![Scan-classify](10.jpg) | ![Buttons](11.jpg) |
+| -------------------------------------- | ---------------------------------------------- | ---------------------------------------- |
 
 ## Overview
 
-An efficient tool that uses convolutional neural networks in order to detect the
-code on plastic materials and gives further information on how to dispose, hoe
-many times to use and what must be avoided.
+We have made a website integrated to the app in order to recognize which kind of Plastic it is and how to recycle it further how to reuse it in Order to , We have specified each the ways to recycle the plastic as well as to create some of the DIY stuff using the Wesite.
 
-## Summary
+## Summary 
 
 This project mainly aims to promote recycling. It helps people understand their
 plastic and dispose it effectively and in a eco-friendly manner.
